@@ -13,7 +13,7 @@ var l_serverImage = "logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "[FR] CityGeekRP";
+var l_serverName = "Nameserveur";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
